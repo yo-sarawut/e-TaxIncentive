@@ -13,3 +13,6 @@
        * [คลังสินค้าทัณฑ์บน](e-tax-manual/e-tax-no/bond.md)
        * [เขตปลอดอากร/เขตประกอบการเสรี](e-tax-manual/e-tax-no/freezone.md)
 
+* [คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)](import-manual/README.md)
+    * [การกำหนดสถานที่](import-manual/docs/area.md)
+    * [ประเภทค่าภาษีอากร](import-manual/docs/duty-type.md)
