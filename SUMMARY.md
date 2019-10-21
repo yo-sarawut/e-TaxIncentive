@@ -9,7 +9,7 @@
        * [เขตปลอดอากร (Freezone)](e-tax-manual/docsfreezone.md)
        * [เขตประกอบการเสรี](e-tax-manual/docsieat.md)
    * [เลขทะเบียนสิทธิประโยชน์ทางภาษีอากร](e-tax-manual)
-       * [ขอคืนอากรตามมาตรา 29](e-tax-manual\e-tax-no\29.md)
-       * [คลังสินค้าทัณฑ์บน](e-tax-manual\e-tax-no\bond.md)
-       * [เขตปลอดอากร/เขตประกอบการเสรี](e-tax-manual\e-tax-no\freezone.md)
+       * [ขอคืนอากรตามมาตรา 29](e-tax-manual/e-tax-no/29.md)
+       * [คลังสินค้าทัณฑ์บน](e-tax-manual/e-tax-no/bond.md)
+       * [เขตปลอดอากร/เขตประกอบการเสรี](e-tax-manual/e-tax-no/freezone.md)
 
